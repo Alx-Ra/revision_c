@@ -32,8 +32,8 @@ void	ft_sort_int_tab(int *tab, int size)
 
 int main(void)
 {
-    int tab[] = {5, 8, 6, 4, 9};
-    int size = 5;
+    int tab[] = {3, 5, 2, 8, 6, 12, 1, 4, 9};
+    int size = 9;
 
     printf("Tableau avant tri : ");
     for (int i = 0; i < size; i++)
